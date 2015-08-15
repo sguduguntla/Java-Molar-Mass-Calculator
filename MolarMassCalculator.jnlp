@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<jnlp spec="1.0+" codebase="https://sites.google.com/site/saijaimolarmass/home/filecabinet/" href="MolarMassCalculator.jnlp">
+		<information>
+			<title>Molar Mass Calculator</title>
+			<vendor>SJCVR Coders</vendor>
+			<homepage href="saijaimolarmasscalculator.com/" />
+			<description>Coolest Molar Mass Calculator Ever!</description>
+		</information>
+		<security>
+			<all-permissions/>
+		</security>
+		<resources>
+			<j2se version="1.8+" />
+			<jar href="MolarMassCalculator.jar" />
+		</resources>
+		<application-desc main-class="Driver" />
+	</jnlp>
